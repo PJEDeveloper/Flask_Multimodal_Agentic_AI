@@ -1,6 +1,6 @@
 ![Thinker AI](Thinker_AI.png)
 
-# Mistral_Flask_Chatbot (Thinker)
+# Mistral_Flask_Agentic_AI (Thinker)
 
 A production-ready Flask web app that wraps a local **Mistral** LLM with optional **BLIP** (image captioning), **Whisper** (speech-to-text), simple **Google search** enrichment, and lightweight **document QA**. It provides a clean Bootstrap UI, streaming-like synchronous replies, and GPU-memory hygiene between requests.
 
